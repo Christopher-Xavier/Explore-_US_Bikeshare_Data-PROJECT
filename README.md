@@ -49,7 +49,7 @@ Finally, the user is prompted with the choice of restarting the program or not.
 
 # Built with:
 
-* [Python 3.6.6](https://www.python.org/) - The language used to develop this.
+* [Python 3.9.6](https://www.python.org/) - The language used to develop this.
 * [pandas](https://pandas.pydata.org/) - One of the libraries used for this.
 * [numpy](http://www.numpy.org/) - One of the libraries used for this.
 * [time](https://docs.python.org/2/library/time.html) - One of the libraries used for this.
