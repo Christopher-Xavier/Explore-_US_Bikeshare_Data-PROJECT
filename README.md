@@ -75,3 +75,5 @@ Birth Year
 
 Data for the first 10 rides in the new_york_city.csv file
 
+#Comments: 
+Was challengeing but overall experience was fairly easy to understand
