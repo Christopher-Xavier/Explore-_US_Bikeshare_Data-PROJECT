@@ -1,6 +1,5 @@
 
 # Explore-_US_Bikeshare_Data-PROJECT
-Student Christopher Bogan
 
 Basic Data Exploration with pandas on Bikeshare Data
 _Basic Udacity project using pandas library in Python for their bikeshare data exploration._
@@ -75,5 +74,3 @@ Birth Year
 
 Data for the first 10 rides in the new_york_city.csv file
 
-#Comments: 
-Was challengeing but overall experience was fairly easy to understand
